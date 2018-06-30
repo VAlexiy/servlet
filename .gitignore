@@ -1,0 +1,9 @@
+.idea/libraries
+/native_lib
+/target
+.classpath
+.project
+/.settings
+/.c9
+/derby.log
+/.idea
